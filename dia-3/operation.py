@@ -25,3 +25,6 @@ x1 = 2
 x2 = 6
 y2 = 10
 m = y2 - y1 / x2 - x1
+"comparar la pendiente"(m1 == m2)
+x3 = input ("que valor de x y es 0")
+y = x3 ^2 + 6 * ^3 +9
