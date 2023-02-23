@@ -1,0 +1,17 @@
+list1 = [ ]
+frutas = ["platano","pera","manzana","sandia","kiwi"]
+len(frutas)
+frist_fruta = frutas [0]
+middle_fruta = frutas [2]
+last_fruta = frutas [4]
+mixed_data_types = ["Lucia","17","1.71","singel","la marquesa"]
+it_companies = ["facebook","google","microsoft","apple","IBM"]
+print(it_companies)
+print(len(it_companies))
+print(it_companies [0])
+print(it_companies [2])
+print(it_companies [4])
+it_companies[4] = "acer"
+it_companies.append(hp)
+it_companies.insert(2,"samsung")
+it_companies[3].upper()
