@@ -46,4 +46,7 @@ word18 = "people"
 string5 = word4 + space + word6 + space + word8 + space + word18
 string5.rfind()
 string6 =  'You cannot end a sentence with because because because is a conjunction'
+string6.find("because because because")
 string6.rindex("because")
+string6.find("because")
+string.replace("because because because", " ")

@@ -9,8 +9,7 @@ year_variable = '2022'
 is_married = False
 is_true = True
 is_light_on = True
-'Lucía Rojas Lucía Rojas Esapaña Jerez 16 2022'
-
+'Lucía Rojas Esapaña Jerez 16 2022'
 type('Lucía')
 type('Rojas')
 type('Lucia Rojas')

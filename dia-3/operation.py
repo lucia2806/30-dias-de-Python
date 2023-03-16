@@ -9,7 +9,7 @@ side_b = input ("cual es el perimetro")
 side_c = input ("cual es el perimetro")
 perimeter_of_the_trianlge = side_a + side_b + side_c
 length = input ("cueales son el area y perimetro")
-width = input ("cules son el area y perimetro")
+width = input ("cuales son el area y perimetro")
 area = length * width
 perimeter = 2 * (length + width)
 pi = 3.14
@@ -27,4 +27,4 @@ y2 = 10
 m = y2 - y1 / x2 - x1
 "comparar la pendiente"(m1 == m2)
 x3 = input ("que valor de x y es 0")
-y = x3 ^2 + 6 * ^3 +9
+y = x3 ^2 + 6 * ^3 + 9
